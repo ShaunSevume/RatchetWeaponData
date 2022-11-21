@@ -1,4 +1,4 @@
-Weapon Name,Type,Secondary?,Game,Cost (Bolts),Upgrade Price,Range,Rate of Fire,Ammo Size,Ammo Cost (Bolts),First Available (Story Completion )
+WeaponName,Type,Secondary,Game,Cost (Bolts),Upgrade Price,Range,Rate of Fire,AmmoSize,Ammo Cost (Bolts),First Available (Story Completion )
 Blaster,Blaster,Gun,Ratchet & Clank,"2,500","20,000",Medium,High,200,1,11.11%
 Lancer,Blaster,Gun,Ratchet & Clank 2,0,,Long,Medium,200,1,0.00%
 Lava Gun,Incendiary,Gun,Ratchet & Clank 2,"25,000",,Medium,High,200,1,42.86%
