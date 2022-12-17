@@ -1,10 +1,10 @@
 WeaponName,Type,Secondary,Game,Cost (Bolts),Upgrade Price,Range,Rate of Fire,AmmoSize,Ammo Cost (Bolts),CompletionPercentage,Completion
-Morph-o-Ray,Target Morpher,Gun,Ratchet & Clank,0,"20,000",Medium,High,Infinite,0,77.78%,77.78
-Taunter,Behaviour Affector,,Ratchet & Clank,"2,500",,Medium,High,Infinite,0,27.78%,27.78
-Walloper,Melee,Glove,Ratchet & Clank,"7,500",,Melee,Low,Infinite,0,55.56%,55.56
-Sheepinator,Target Morpher,Gun,Ratchet & Clank 2,0,,Short,High,Infinite,0,57.14%,57.14
-Walloper (GC),Melee,Glove,Ratchet & Clank 2,"8,000","8,000",Melee,Low,Infinite,0,23.81%,23.81
-Qwack-O-Ray,Target Morpher,Gun,Ratchet & Clank 3,"200,000",,Medium,High,Infinite,0,85.00%,85
+Morph-o-Ray,Target Morpher,Gun,Ratchet & Clank,0,"20,000",Medium,High,:infinite:,0,77.78%,77.78
+Taunter,Behaviour Affector,,Ratchet & Clank,"2,500",,Medium,High,:infinite:,0,27.78%,27.78
+Walloper,Melee,Glove,Ratchet & Clank,"7,500",,Melee,Low,:infinite:,0,55.56%,55.56
+Sheepinator,Target Morpher,Gun,Ratchet & Clank 2,0,,Short,High,:infinite:,0,57.14%,57.14
+Walloper (GC),Melee,Glove,Ratchet & Clank 2,"8,000","8,000",Melee,Low,:infinite:,0,23.81%,23.81
+Qwack-O-Ray,Target Morpher,Gun,Ratchet & Clank 3,"200,000",,Medium,High,:infinite:,0,85.00%,85
 Shield Charger (UYA),Shield,Electric,Ratchet & Clank 3,"250,000",,Short,Low,3,500,95.24%,95.24
 Zodiac,Electric,,Ratchet & Clank 2,"1,500,000",,Long,Very Low,4,"10,000",71.43%,71.43
 Suck Cannon,Weaponized Vacuum,,Ratchet & Clank,0,"10,000",Medium,High,5,0,22.22%,22.22
