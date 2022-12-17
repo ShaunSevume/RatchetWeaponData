@@ -1,62 +1,62 @@
 WeaponName,Type,Secondary,Game,Cost (Bolts),Upgrade Price,Range,Rate of Fire,AmmoSize,Ammo Cost (Bolts),CompletionPercentage,Completion
-Morph-o-Ray,Target Morpher,Gun,Ratchet & Clank,0,"20,000",Medium,High,Infinite,0,77.78%,77.78
-Taunter,Behaviour Affector,,Ratchet & Clank,"2,500",,Medium,High,Infinite,0,27.78%,27.78
-Walloper,Melee,Glove,Ratchet & Clank,"7,500",,Melee,Low,Infinite,0,55.56%,55.56
-Sheepinator,Target Morpher,Gun,Ratchet & Clank 2,0,,Short,High,Infinite,0,57.14%,57.14
-Walloper (GC),Melee,Glove,Ratchet & Clank 2,"8,000","8,000",Melee,Low,Infinite,0,23.81%,23.81
-Qwack-O-Ray,Target Morpher,Gun,Ratchet & Clank 3,"200,000",,Medium,High,Infinite,0,85.00%,85
-Shield Charger (UYA),Shield,Electric,Ratchet & Clank 3,"250,000",,Short,Low,3,500,95.24%,95.24
-Zodiac,Electric,,Ratchet & Clank 2,"1,500,000",,Long,Very Low,4,"10,000",71.43%,71.43
-Suck Cannon,Weaponized Vacuum,,Ratchet & Clank,0,"10,000",Medium,High,5,0,22.22%,22.22
-Shield Charger,Shield,Electric,Ratchet & Clank 2,"100,000",,Short,Low,5,100,71.43%,71.43
-Glove of Doom (UYA),Combat Drones,Glove,Ratchet & Clank 3,"60,000",,Short,Low,6,75,20.00%,20
-Gravity Bomb,Bomb Launcher,Gun,Ratchet & Clank 2,0,,Medium,Low,8,50,0.00%,0
-Spiderbot Glove,Deployable,Glove,Ratchet & Clank 2,"15,000",,Long,Very Low,8,50,52.38%,52.38
-Pulse Rifle,Sniper Rifle,,Ratchet & Clank 2,"20,000",,Very Long,Low,8,50,19.05%,19.05
-Nitro Launcher,Bomb Launcher,Gun,Ratchet & Clank 3,0,,Medium,Low,8,50,0.00%,0
-Holoshield Glove,Shield,Glove,Ratchet & Clank 3,"30,000",,Short,Low,8,20,30.00%,30
-Rift Inducer,Weaponized Vacuum,Gun,Ratchet & Clank 3,"180,000",,Medium,Medium,8,100,50.00%,50
+Devastator,Rocket Launcher,,Ratchet & Clank,"10,000","60,000",Long,Low,20,50,44.44%,44.44
+RYNO,Missile Launcher,Homing Launcher,Ratchet & Clank,"150,000",,Long,Medium,50,20,33.33%,33.33
+Taunter,Behaviour Affector,,Ratchet & Clank,"2,500",,Medium,High,Infinite,N/A,27.78%,27.78
+Blaster,Blaster,Gun,Ratchet & Clank,"2,500","20,000",Medium,High,200,1,11.11%,11.11
+Tesla Claw,Electric,,Ratchet & Clank,"40,000","60,000",Medium,High,240,1,77.78%,77.78
+Morph-o-Ray,Target Morpher,Gun,Ratchet & Clank,0,"20,000",Medium,High,Infinite,N/A,77.78%,77.78
+Suck Cannon,Weaponized Vacuum,,Ratchet & Clank,0,"10,000",Medium,High,5,N/A,22.22%,22.22
+Decoy Glove,Behaviour Affector,Glove,Ratchet & Clank,"7,500","10,000",Medium,Low,20,10,61.11%,61.11
+Bomb Glove,Bomb Launcher,Glove,Ratchet & Clank,0,"20,000",Medium,Medium,40,5,0.00%,0
+Walloper,Melee,Glove,Ratchet & Clank,"7,500",,Melee,Low,Infinite,N/A,55.56%,55.56
+Pyrocitor,Incendiary,Flamethrower,Ratchet & Clank,"2,500","30,000",Short,High,240,1,5.56%,5.56
 Glove of Doom,Combat Drones,Glove,Ratchet & Clank,"7,500","10,000",Short,Low,10,40,22.22%,22.22
 Drone Device,Combat Drones,,Ratchet & Clank,"7,500",,Short,Low,10,40,66.67%,66.67
-Plasma Coil,Electric,Gun,Ratchet & Clank 2,"150,000",,Long,Low,10,50,52.38%,52.38
-Suck Cannon (UYA),Weaponized Vacuum,,Ratchet & Clank 3,"8,000",,Medium,High,10,0,10.00%,10
-Miniturret Glove (UYA),Deployable,Glove,Ratchet & Clank 3,"25,000",,Medium,High,10,30,25.00%,25
-Flux Rifle,Sniper Rifle,,Ratchet & Clank 3,"75,000",,Very Long,Low,10,50,25.00%,25
-Bouncer (UYA),Bomb Launcher,Gun,Ratchet & Clank 3,"150,000",,Medium,Low,10,50,90.00%,90
-Plasma Coil (UYA),Electric,Gun,Ratchet & Clank 3,"150,000",,Long,Low,10,50,95.00%,95
-Synthenoids,Combat Drones,,Ratchet & Clank 2,"65,000",,Medium,Medium,12,100,33.33%,33.33
-Miniturret Glove,Deployable,Glove,Ratchet & Clank 2,"25,000",,Medium,High,15,15,19.05%,19.05
-Infector,Behaviour Affector,Chemical Weapon,Ratchet & Clank 3,"18,000",,Medium,Low,15,20,10.00%,10
-Spitting Hydra,Electric,Homing Launcher,Ratchet & Clank 3,"40,000",,Medium,Low,15,5,15.00%,15
-Decoy Glove,Behaviour Affector,Glove,Ratchet & Clank,"7,500","10,000",Medium,Low,20,10,61.11%,61.11
-Devastator,Rocket Launcher,,Ratchet & Clank,"10,000","60,000",Long,Low,20,50,44.44%,44.44
+Mine Glove,Mine Launcher,Glove,Ratchet & Clank,"2,500","10,000",Short,Low,50,5,33.33%,33.33
 Visibomb Gun,Missile Launcher,Gun,Ratchet & Clank,"15,000",,Very Long,Very Low,20,100,50.00%,50
-Visibomb Gun (GC),Missile Launcher,Gun,Ratchet & Clank 2,"8,000","150,000",Very Long,Very Low,20,100,23.81%,23.81
+RYNO II,Missile Launcher,Homing Launcher,Ratchet & Clank 2,"1,000,000",,Long,High,100,50,23.81%,23.81
 Minirocket Tube,Rocket Launcher,,Ratchet & Clank 2,"50,000",,Long,High,20,20,47.62%,47.62
-Annihilator,Rocket Launcher,,Ratchet & Clank 3,"150,000",,Long,Medium,20,20,30.00%,30
+Plasma Coil,Electric,Gun,Ratchet & Clank 2,"150,000",,Long,Low,10,50,52.38%,52.38
+Lancer,Blaster,Gun,Ratchet & Clank 2,0,,Long,Medium,200,1,0.00%,0
 Seeker Gun,Missile Launcher,Homing Launcher,Ratchet & Clank 2,"5,000",,Long,Medium,25,20,23.81%,23.81
+Spiderbot Glove,Deployable,Glove,Ratchet & Clank 2,"15,000",,Long,Very Low,8,50,52.38%,52.38
+Zodiac,Electric,,Ratchet & Clank 2,"1,500,000",,Long,Very Low,4,"10,000",71.43%,71.43
+Miniturret Glove,Deployable,Glove,Ratchet & Clank 2,"25,000",,Medium,High,15,15,19.05%,19.05
+Tesla Claw (GC),Electric,,Ratchet & Clank 2,"8,000","80,000",Medium,High,300,2,23.81%,23.81
+Lava Gun,Incendiary,Gun,Ratchet & Clank 2,"25,000",,Medium,High,200,1,42.86%,42.86
+Decoy Glove (GC),Behaviour Affector,Glove,Ratchet & Clank 2,"5,000","50,000",Medium,Low,30,10,23.81%,23.81
+Gravity Bomb,Bomb Launcher,Gun,Ratchet & Clank 2,0,,Medium,Low,8,50,0.00%,0
 Bouncer,Bomb Launcher,Gun,Ratchet & Clank 2,"100,000",,Medium,Low,25,50,42.86%,42.86
-Plasma Whip,Melee,Incendiary,Ratchet & Clank 3,"7,500",,Short,Medium,25,3,5.00%,5
+Bomb Glove (GC),Bomb Launcher,Glove,Ratchet & Clank 2,"1,000","1,000",Medium,Medium,40,5,23.81%,23.81
+Synthenoids,Combat Drones,,Ratchet & Clank 2,"65,000",,Medium,Medium,12,100,33.33%,33.33
+Chopper,Disc Launcher,,Ratchet & Clank 2,"5,000",,Medium,Medium,35,4,4.76%,4.76
+Blitz Gun,Shotgun,Gun,Ratchet & Clank 2,"15,000",,Medium,Medium,40,5,4.76%,4.76
+Walloper (GC),Melee,Glove,Ratchet & Clank 2,"8,000","8,000",Melee,Low,Infinite,N/A,23.81%,23.81
+Sheepinator,Target Morpher,Gun,Ratchet & Clank 2,0,,Short,High,Infinite,N/A,57.14%,57.14
+Clank Zapper,Electric,,Ratchet & Clank 2,"1,000,000",,Short,Low,30,100,100.00%,100
+Shield Charger,Shield,Electric,Ratchet & Clank 2,"100,000",,Short,Low,5,100,71.43%,71.43
+Pulse Rifle,Sniper Rifle,,Ratchet & Clank 2,"20,000",,Very Long,Low,8,50,19.05%,19.05
+Visibomb Gun (GC),Missile Launcher,Gun,Ratchet & Clank 2,"8,000","150,000",Very Long,Very Low,20,100,23.81%,23.81
+N60 Storm,Blaster,Gun,Ratchet & Clank 3,"15,000",,Long,High,150,2,5.00%,5
+Plasma Coil (UYA),Electric,Gun,Ratchet & Clank 3,"150,000",,Long,Low,10,50,95.00%,95
+Annihilator,Rocket Launcher,,Ratchet & Clank 3,"150,000",,Long,Medium,20,20,30.00%,30
+Miniturret Glove (UYA),Deployable,Glove,Ratchet & Clank 3,"25,000",,Medium,High,10,30,25.00%,25
+Lava Gun (UYA),Incendiary,Gun,Ratchet & Clank 3,"40,000",,Medium,High,150,3,25.00%,25
+Qwack-O-Ray,Target Morpher,Gun,Ratchet & Clank 3,"200,000",,Medium,High,Infinite,N/A,85.00%,85
+Suck Cannon (UYA),Weaponized Vacuum,,Ratchet & Clank 3,"8,000",,Medium,High,10,N/A,10.00%,10
+Infector,Behaviour Affector,Chemical Weapon,Ratchet & Clank 3,"18,000",,Medium,Low,15,20,10.00%,10
+Nitro Launcher,Bomb Launcher,Gun,Ratchet & Clank 3,0,,Medium,Low,8,50,0.00%,0
+Bouncer (UYA),Bomb Launcher,Gun,Ratchet & Clank 3,"150,000",,Medium,Low,10,50,90.00%,90
+Spitting Hydra,Electric,Homing Launcher,Ratchet & Clank 3,"40,000",,Medium,Low,15,5,15.00%,15
 Disc Blade Gun,Disc Launcher,Gun,Ratchet & Clank 3,"175,000",,Medium,Medium,25,10,40.00%,40
 RY3NO,Missile Launcher,Homing Launcher,Ratchet & Clank 3,"3,000,000",,Medium,Medium,25,"1,000",100.00%,100
-Decoy Glove (GC),Behaviour Affector,Glove,Ratchet & Clank 2,"5,000","50,000",Medium,Low,30,10,23.81%,23.81
-Clank Zapper,Electric,,Ratchet & Clank 2,"1,000,000",,Short,Low,30,100,100.00%,100
 Shock Blaster,Shotgun,Gun,Ratchet & Clank 3,0,,Medium,Medium,30,5,0.00%,0
-Chopper,Disc Launcher,,Ratchet & Clank 2,"5,000",,Medium,Medium,35,4,4.76%,4.76
-Bomb Glove,Bomb Launcher,Glove,Ratchet & Clank,0,"20,000",Medium,Medium,40,5,0.00%,0
-Bomb Glove (GC),Bomb Launcher,Glove,Ratchet & Clank 2,"1,000","1,000",Medium,Medium,40,5,23.81%,23.81
-Blitz Gun,Shotgun,Gun,Ratchet & Clank 2,"15,000",,Medium,Medium,40,5,4.76%,4.76
-Mine Glove,Mine Launcher,Glove,Ratchet & Clank,"2,500","10,000",Short,Low,50,5,33.33%,33.33
-RYNO,Missile Launcher,Homing Launcher,Ratchet & Clank,"150,000",,Long,Medium,50,20,33.33%,33.33
-RYNO II,Missile Launcher,Homing Launcher,Ratchet & Clank 2,"1,000,000",,Long,High,100,50,23.81%,23.81
-N60 Storm,Blaster,Gun,Ratchet & Clank 3,"15,000",,Long,High,150,2,5.00%,5
-Lava Gun (UYA),Incendiary,Gun,Ratchet & Clank 3,"40,000",,Medium,High,150,3,25.00%,25
-Blaster,Blaster,Gun,Ratchet & Clank,"2,500","20,000",Medium,High,200,1,11.11%,11.11
-Lancer,Blaster,Gun,Ratchet & Clank 2,0,,Long,Medium,200,1,0.00%,0
-Lava Gun,Incendiary,Gun,Ratchet & Clank 2,"25,000",,Medium,High,200,1,42.86%,42.86
-Pyrocitor,Incendiary,Flamethrower,Ratchet & Clank,"2,500","30,000",Short,High,240,1,5.56%,5.56
-Tesla Claw,Electric,,Ratchet & Clank,"40,000","60,000",Medium,High,240,1,77.78%,77.78
-Tesla Claw (GC),Electric,,Ratchet & Clank 2,"8,000","80,000",Medium,High,300,2,23.81%,23.81
+Rift Inducer,Weaponized Vacuum,Gun,Ratchet & Clank 3,"180,000",,Medium,Medium,8,100,50.00%,50
+Glove of Doom (UYA),Combat Drones,Glove,Ratchet & Clank 3,"60,000",,Short,Low,6,75,20.00%,20
+Shield Charger (UYA),Shield,Electric,Ratchet & Clank 3,"250,000",,Short,Low,3,500,95.24%,95.24
+Holoshield Glove,Shield,Glove,Ratchet & Clank 3,"30,000",,Short,Low,8,20,30.00%,30
+Plasma Whip,Melee,Incendiary,Ratchet & Clank 3,"7,500",,Short,Medium,25,3,5.00%,5
+Flux Rifle,Sniper Rifle,,Ratchet & Clank 3,"75,000",,Very Long,Low,10,50,25.00%,25
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
